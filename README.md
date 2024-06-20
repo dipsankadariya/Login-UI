@@ -1,4 +1,4 @@
-# E-MedAI SignIn Page
+# E-MedAI Sign In Page
 
 A simple Flutter Sign In page UI for E-MedAI application.
 
